@@ -5,7 +5,7 @@ NAMA    : Andi Ramli Hidayat <br>
 NIM     : 312510385 <br>
 KELAS   : TI.25 C.5
 
-# Latihan 1
+# Tugas Praktikum
 <ul>
   <li>Flowchart</li>
   <img src="https://github.com/aramli/labpy04/raw/main/img/11.png" width="400"/>
